@@ -1,7 +1,7 @@
 # FIRST
 
   <label for="fname">First name:</label><br>
-  <input type="text" id="fname" name="fname" value="John"><br>
+  <input type="text" id="fname" name="fname" value="Mickey"><br>
   <label for="lname">Last name:</label><br>
   <input type="text" id="lname" name="lname" value="Doe"><br><br>
   <input type="submit" value="Submit">
@@ -16,11 +16,8 @@
   <li>backpack</li>
   <li>Tallcan</li>
   <li>mickey ears</li>
+  <li>tissue</li>
 </ul>  
-<iframe width="920" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
-</body>
-</html>
 
 
 
